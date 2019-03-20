@@ -1,2 +1,3 @@
-# Portfolio
-My Portfolio/Resume
+# My Portfolio
+My personal website and portfolio!
+
